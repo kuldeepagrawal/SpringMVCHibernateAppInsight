@@ -3,7 +3,7 @@
 
 
 	<!-- Replace the value here with your key from the portal: -->
-	<InstrumentationKey>6ecf86c0-f5c1-4eef-aed3-c00d50eb5121</InstrumentationKey>
+	<InstrumentationKey>your key</InstrumentationKey>
 
 
 	<!-- HTTP request component (not required for bare API) -->
